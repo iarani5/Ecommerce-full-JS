@@ -1,0 +1,229 @@
+*{margin:0;padding:0;}
+body{
+	background:url('../img/rebajas.jpg');
+	margin:0 8.9em;
+	width:971px;
+	font-family:Verdana;
+}
+header{
+		height:auto;
+		background:url('../img/perroheader.png') no-repeat 40% 69%;
+}
+main{
+	background:white;
+}
+#home{
+	padding-bottom:80px;
+}
+#cesta a:hover{
+	background:url('../img/cesta.png') no-repeat right #D5A7E9;
+}
+#cesta a{
+	background:url('../img/cesta.png') no-repeat right;
+}
+#tm{
+	display:inline-block;
+	width:70px;
+}
+#cesta{
+	width:150px;
+	text-align:right;
+	margin-right:1.9em;
+}
+h1{
+	font-family:'Special Elite';
+}
+#logo{
+	display:inline-block;
+}
+header  figure div input{
+	display:inline-block;
+	width:25em;
+	padding:.5em;
+}
+header  figure div img{
+	display:inline-block;
+	vertical-align:top;
+	margin-top:.5em;
+}
+header{
+	width:100%;
+}
+li{
+	text-align:center;
+}
+
+main footer{
+	height:15em;
+	background:url('../img/backgrounddiv.png') no-repeat left top;  
+	text-align:center;
+}
+header figure picture img{
+	padding-top:1em;
+}
+header figure div{
+	display:inline-block;
+	margin-top:0;
+	margin-left:0;
+	height:50px;
+	padding-top:30px;
+	float:right;
+	overflow:hidden;
+}
+nav{
+	text-align:right;
+	width:100%;
+	border:none;
+	margin-top:.3em;
+	background:#a76dc0;
+}
+nav ul li a:hover{
+	background:#D5A7E9;
+}
+nav ul{
+	margin:0;
+	width:100%;
+	display:inline-block;
+	border-top:solid	.2em #72ad3c;
+	height:35px;
+
+}
+nav ul li{
+	display:inline-block;
+	width:150px;
+	list-style:none;
+}
+}
+#home section ul li{
+	display:inline-block;
+}
+nav ul li a{
+	background:none;
+	font-family:'Special Elite', Verdana;
+	padding:0 .5em;
+	margin:.1em;
+	font-size:1.2em;
+	border:none;
+	border-left:#da91f9 solid .1em;
+	display:block;
+	padding:.2em;
+	text-decoration:none;
+	background:#a76dc0;
+	color:white;
+	text-align:center;
+}
+#faunemia{
+	width:20%;
+	margin-left:75%;
+}
+footer figure{
+	width:194px;
+}
+h1{
+	color:#a76dc0;
+	text-align:center;
+	padding-top:1em;
+	border-top:#72ad3c solid .1em;
+	padding-bottom:1.5em;
+}
+#home{
+	text-align:center;
+	background-color:white;
+}
+.modal{ 
+position: fixed; 
+top: 0; 
+left: 0; 
+width: 100%; 
+height: 100%; 
+background: rgba( 255,255,255,0.85); 
+}
+.modal >div{
+width: 520px; 
+border:solid .2em #72ad3c;
+margin: 20px auto; 
+box-shadow: 0 0 5px black; 
+padding: 9px 20px 20px 20px; 
+min-height: 500px; 
+background:white;
+}
+.flechas{
+display:inline-block;
+width:25px;
+height:42px;
+margin-top:13em;
+cursor:pointer;
+}
+#tusdatos fieldset{
+	border:none;
+	padding-top:1.2em;
+}
+#tusdatos fieldset div input{
+	border-radius:.5em;
+	width:60%;
+	padding:.2em;
+}
+#tusdatos fieldset div{
+	margin:.8em auto;
+	width:400px;
+}
+#tusdatos fieldset div span{
+	margin:0 .2em;
+	display:inline-block;
+	width:90px;
+	text-align:left;
+}
+.bt, .caja{
+padding:.5em;
+border-radius:5px;
+margin-left:.5em;
+font-size:1em;
+margin-right:1em;
+display:inline-block;
+cursor:pointer;
+}
+
+.caja{
+	border-radius:5px;
+	background:rgb(167, 109, 192);
+	color:white;
+	font-weight:bold;
+	margin-left:80%;
+	margin-top:3em;
+}
+.num{
+	display:inline-block;
+	padding:.2em .5em;
+	text-decoration:none;
+	margin:0 .5em;
+	border-radius:0 0 25% 25%;
+	background:rgb(167, 109, 192);
+	color:white;
+	font-weight:bold;
+}
+.modal h2+a{
+	margin-left:70%;
+}
+#tarjetas{
+	margin-top:.5em;
+}
+#tarjetas li:hover{
+	background-color:#72AD3C;
+}
+#tarjetas li{
+	list-style:none;
+	display:inline-block;
+	margin:.2em;
+	cursor:pointer;
+}
+
+
+
+
+
+
+
+
+
+
+

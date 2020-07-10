@@ -1,0 +1,1 @@
+Las versiónes en que fue probado fueron ie11 y edge 
